@@ -1,0 +1,4 @@
+cl/threeit/api/backend/repository/IGenresRepository.class
+cl/threeit/api/backend/domain/Genre.class
+cl/threeit/api/backend/repository/ISurveyRepository.class
+cl/threeit/api/backend/domain/Survey.class

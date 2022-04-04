@@ -1,0 +1,11 @@
+cl/threeit/api/configuration/CorsConfiguration$1.class
+cl/threeit/api/controllers/SurveyController.class
+cl/threeit/api/handlers/ErrorInformation.class
+cl/threeit/api/controllers/IGenreController.class
+cl/threeit/api/controllers/GenreController.class
+cl/threeit/api/Application.class
+cl/threeit/api/controllers/HomeController.class
+cl/threeit/api/controllers/ISurveyController.class
+cl/threeit/api/configuration/SwaggerConfiguration.class
+cl/threeit/api/handlers/ErrorHandler.class
+cl/threeit/api/configuration/CorsConfiguration.class

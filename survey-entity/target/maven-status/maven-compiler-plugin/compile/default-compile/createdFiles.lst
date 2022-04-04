@@ -1,0 +1,12 @@
+cl/threeit/api/entity/GenreEntity.class
+cl/threeit/api/entity/GetSurveyResumeResponse.class
+cl/threeit/api/entity/generics/GenericResponse.class
+cl/threeit/api/entity/generics/PagedResponse.class
+cl/threeit/api/entity/generics/ErrorResponse.class
+cl/threeit/api/entity/CreateSurveyResponse.class
+cl/threeit/api/entity/SurveyResumeEntity.class
+cl/threeit/api/entity/CreateGenreResponse.class
+cl/threeit/api/entity/GetAllGenresResponse.class
+cl/threeit/api/entity/CreateSurveyRequest.class
+cl/threeit/api/entity/SurveyEntity.class
+cl/threeit/api/entity/CreateGenreRequest.class

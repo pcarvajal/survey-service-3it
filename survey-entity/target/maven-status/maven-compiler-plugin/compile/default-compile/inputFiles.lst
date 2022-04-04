@@ -1,0 +1,12 @@
+/Users/acarvajal/Developer/Java/survey-service/survey-entity/src/main/java/cl/threeit/api/entity/generics/ErrorResponse.java
+/Users/acarvajal/Developer/Java/survey-service/survey-entity/src/main/java/cl/threeit/api/entity/generics/PagedResponse.java
+/Users/acarvajal/Developer/Java/survey-service/survey-entity/src/main/java/cl/threeit/api/entity/generics/GenericResponse.java
+/Users/acarvajal/Developer/Java/survey-service/survey-entity/src/main/java/cl/threeit/api/entity/CreateSurveyResponse.java
+/Users/acarvajal/Developer/Java/survey-service/survey-entity/src/main/java/cl/threeit/api/entity/GetSurveyResumeResponse.java
+/Users/acarvajal/Developer/Java/survey-service/survey-entity/src/main/java/cl/threeit/api/entity/GetAllGenresResponse.java
+/Users/acarvajal/Developer/Java/survey-service/survey-entity/src/main/java/cl/threeit/api/entity/SurveyEntity.java
+/Users/acarvajal/Developer/Java/survey-service/survey-entity/src/main/java/cl/threeit/api/entity/CreateGenreRequest.java
+/Users/acarvajal/Developer/Java/survey-service/survey-entity/src/main/java/cl/threeit/api/entity/SurveyResumeEntity.java
+/Users/acarvajal/Developer/Java/survey-service/survey-entity/src/main/java/cl/threeit/api/entity/CreateSurveyRequest.java
+/Users/acarvajal/Developer/Java/survey-service/survey-entity/src/main/java/cl/threeit/api/entity/GenreEntity.java
+/Users/acarvajal/Developer/Java/survey-service/survey-entity/src/main/java/cl/threeit/api/entity/CreateGenreResponse.java
